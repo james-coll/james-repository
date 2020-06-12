@@ -1,4 +1,4 @@
-import cv2
+import cv2 #pip install opencv-python
 
 # Load the cascade
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
