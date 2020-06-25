@@ -1,0 +1,3 @@
+Get wifi info:ipconfig
+
+Get wifi stats:netstat

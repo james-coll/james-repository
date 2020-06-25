@@ -1,0 +1,4 @@
+To shutdown external computer:shutdown -i
+
+To shutdown computer your on:shutdown -r
+To cancel your computer shutdown:shutdown -a
